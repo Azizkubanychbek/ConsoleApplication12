@@ -1,0 +1,3 @@
+bishkek, tchui, 56, 2
+dubai, llokf, 34, 2
+moskow, alexand, 22, 5
